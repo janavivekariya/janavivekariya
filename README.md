@@ -11,7 +11,7 @@ Currently...
 - Developer Relations @ [Keyflow](https://www.keyflow.space/) | User engagement and Product growth 📈
 
 Previously...
-- Software Engineer Intern @ [University of Waterloo](https://www.windriver.com/) | Building the Internal Tools System 🚀
+- Software Engineer Intern @ [University of Waterloo](https://uwaterloo.ca/) | Building the Internal Tools System 🚀
 - Software Engineer @ [Alter](https://www.alter-textile.com/) | Optimized product data management with web views and APIs 🔐 
 - Software Engineer Intern @ [ReliablyMe](https://reliablyme.com/) | Chatbot using AI and ML techniques 🤖
 
