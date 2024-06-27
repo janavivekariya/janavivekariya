@@ -1,4 +1,4 @@
-Hey there! I'm Janavi👋
+## Hey there! I'm Janavi👋
 
 
 I'm a second year **Computer Science** student at the **University of Waterloo**, currently seeking \
@@ -7,7 +7,7 @@ I'm a second year **Computer Science** student at the **University of Waterloo**
 ## 💻 My Experiences!
 
 Currently...
-- Full Stack Developer @ [Games Institute UW](https://artsresearch.uwaterloo.ca/chiastic/display/) | Researching AI and Linguistics under Prof. Randy Harris 👩🏻‍💻
+- Full Stack Developer @ [Games Institute UW](https://uwaterloo.ca/games-institute/) | Researching AI and Linguistics under Prof. Randy Harris 👩🏻‍💻
 - Developer Relations @ [Keyflow](https://www.keyflow.space/) | User engagement and Product growth 📈
 
 Previously...
