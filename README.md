@@ -1,4 +1,4 @@
-## Hey there! I'm Janavi👋
+## Hey there! I'm Janavi 👋
 
 
 I'm a second year **Computer Science** student at the **University of Waterloo**, currently seeking \
