@@ -2,7 +2,7 @@
 
 
 I'm a second year **Computer Science** student at the **University of Waterloo**, currently seeking \
-**Winter 2025/ Summer 2025** SWE internship opportunities 🌱
+**Winter 2025/ Summer 2025** internship opportunities 🌱
 
 ## 💻 My Experiences!
 
