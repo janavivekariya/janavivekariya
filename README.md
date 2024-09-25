@@ -21,7 +21,7 @@ Previously...
 
 Languages: Python, C, C++, Golang(Go), Javascript, Typescript \
 Frameworks/Libraries: React.js, Node.js, Next.js, Flutter, Express, TenserFlow, Pytorch \
-Developer Tools: Git, Linux, Figma, Azure, Docker, Postman, Workflows, Jira, MongoDB
+Developer Tools: Git, Linux, Figma, Azure, Docker, Postman, Workflows, Jira, MongoDB \
 Product: Scrum master, Sprint planning, User interview, Market research, Prototyping, Wireframing, OKRs, Telemetry
 
 ## 🤝 Let's Connect 
